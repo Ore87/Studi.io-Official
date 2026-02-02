@@ -10,7 +10,7 @@
 
 ---
 
-## 📺 Live Demo
+##  Live Demo
 Watch the full project walkthrough on YouTube:
 
 [![Studi.io Demo](https://img.youtube.com/vi/NCUOc3zGNYo/0.jpg)](https://youtu.be/NCUOc3zGNYo)
@@ -19,7 +19,7 @@ Watch the full project walkthrough on YouTube:
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Studi.io** is an intelligent EdTech platform designed to tackle the root cause of examination malpractice: **lack of confidence and understanding.**
 
@@ -27,25 +27,25 @@ Unlike generic AI tools, Studi.io uses **RAG (Retrieval-Augmented Generation)** 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📚 1. Grounded Document Chat (RAG)
+###  1. Grounded Document Chat (RAG)
 * **Context-Aware:** Upload your specific course PDFs. The AI reads *your* material, not just the internet.
 * **Citations:** Every answer references specific pages in your handouts, ensuring accuracy and trust.
 
-### 🧠 2. The Quiz Arena
+###  2. The Quiz Arena
 * **Active Recall:** Automatically generates Multiple Choice and Theory questions from your uploaded notes.
 * **Immediate Feedback:** Get instant corrections and explanations for every wrong answer.
 
-### 🎨 3. Visual Intelligence Studio
+### 3. Visual Intelligence Studio
 * **Text-to-Diagram:** Struggling to understand a complex concept? Studi.io instantly generates charts, mind maps, and flowcharts to explain it visually.
 
-### 🎯 4. Study Goals & Analytics
+###  4. Study Goals & Analytics
 * **Gamified Progress:** Track learning streaks, set daily goals, and visualize your mastery over time.
 
 ---
 
-## 🛠️ Technology Stack & Sponsor Integrations
+##  Technology Stack & Sponsor Integrations
 
 Studi.io was built using a robust modern stack, powered by cutting-edge tools provided by our hackathon sponsors:
 
@@ -57,18 +57,18 @@ Studi.io was built using a robust modern stack, powered by cutting-edge tools pr
 ### **AI & Voice Engine**
 * **OpenAI GPT-4o:** Primary reasoning engine for document analysis.
 * **🎙️ ElevenLabs:** Powers the "Audio Study Mode," converting text-based notes into realistic AI speech for on-the-go learning.
-* **🧠 Nexos.ai:** Utilized for advanced model inference and intelligent agent processing within the chat interface.
-* **🤖 KrosAI:** Integrated to handle specialized specialized AI tasks and study pattern recognition.
+* ** Nexos.ai:** Utilized for advanced model inference and intelligent agent processing within the chat interface.
+* ** KrosAI:** Integrated to handle specialized specialized AI tasks and study pattern recognition.
 
 ### **Infrastructure & Dev Tools**
-* **💻 Daytona:** Used as the primary **Cloud Development Environment (CDE)** to accelerate the coding workflow and standardize the dev environment.
-* **📡 Saily:** Integrated to test and ensure global connectivity and accessibility for students in different regions.
-* **🌐 .cv Domain:** The project utilizes the `.cv` domain identity for professional branding.
+* ** Daytona:** Used as the primary **Cloud Development Environment (CDE)** to accelerate the coding workflow and standardize the dev environment.
+* ** Saily:** Integrated to test and ensure global connectivity and accessibility for students in different regions.
+* ** .cv Domain:** The project utilizes the `.cv` domain identity for professional branding.
 
 ---
 
 
-## ⚡ Getting Started (Run Locally)
+##  Getting Started (Run Locally)
 
 If you want to run this project locally, follow these steps:
 
@@ -104,7 +104,7 @@ Contributions are welcome! If you have suggestions for new features, feel free t
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Lead Developer:** Oreoluwa
 * **GitHub:** [@Ore87](https://github.com/Ore87)
